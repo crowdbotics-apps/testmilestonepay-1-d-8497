@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'testmilestonepay_1_d_8497.settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "testmilestonepay_1_d_8497.settings")
 
 application = get_wsgi_application()
